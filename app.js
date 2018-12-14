@@ -6,7 +6,7 @@ var arr1 = ['kitchen', 'timer', 3, 'false', false];
 // Q. kitchen
 // R. timer
 // S. 3
-// T. false
+// T. false THIS ONE
 
 // 2. What will this function print to the console?
 
@@ -21,7 +21,7 @@ function check() {
 
 // S. hello
 // T. error
-// U. goodbye
+// U. goodbye THIS ONE
 // V. undefined
 
 // 3. What will this print to the console?
@@ -36,7 +36,7 @@ function door() {
   }
 }
 
-// R. The door is already closed.
+// R. The door is already closed. THIS ONE
 // S. Close the door!
 // T. undefined
 // U. error
@@ -50,7 +50,7 @@ for (i = 0; i < array.length; i++) {
 
 // L. 5, 88, 2, 41 (on the same line)
 // M. 41, 2, 88, 5 (on the same line)
-// N. 41, 2, 88, 5 (on separate lines)
+// N. 41, 2, 88, 5 (on separate lines) THIS ONE
 // O. 5, 88, 2, 41 (on separate lines)
 
 // 5. What will this print to the console?
@@ -61,7 +61,7 @@ var desk = {
 console.log(desk.color);
 
 // M. 4
-// O. brown
+// O. brown THIS ONE
 // P. undefined
 // Q. error
 
@@ -87,7 +87,7 @@ for (i = 0; i < people.length; i++) {
 }
 
 // E. 13
-// F. 13 14 (on separate lines)
+// F. 13 14 (on separate lines) THIS ONE
 // G. 14
 // H. 13 14 (on the same line)
 
@@ -97,7 +97,10 @@ counter++;
 counter+= 5;
 counter+= 5;
 
-// F. 11
+// F. 11 THIS ONE
 // G. 10
 // H. 9
 // I. 8
+
+
+// "TURN OFF"

@@ -4,6 +4,8 @@ Read through the problems in the app.js file and match each answer with the lett
 
 ## _ _ _ _ | _ _ _ | HET | GTHSLI
 
+## TURN OFF THE LIGHTS
+
 ## Objective
 
 Analyze **Functions**, **If Statements** and **Arrays**.
